@@ -13,7 +13,7 @@ function login() {
     document.getElementById("adminPanel").classList.remove("hidden");
     mostrarProductos();
   } else {
-    alert("Usuario o contraseña incorrectos");
+    alert("Usuario o contraseÃ±a incorrectos");
   }
 }
 
